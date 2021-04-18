@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">A2_1155079374</string>
+    <string name="default_chatroom">Default Chatroom</string>
+    <string name="chatroom">Chatroom</string>
+    <string name="iems5722">IEMS5722</string>
+    <string name="enter_message">Enter message here...</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="instant_messager">Instant Messager</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="please_scan_qr_code_or_input_user_id">Please Scan QR code or Input User ID</string>
+    <string name="please_input_user_id">Please Input User ID</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="back">Back</string>
+    <string name="your_qr_code">Your QR code</string>
+</resources>
